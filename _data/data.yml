@@ -63,7 +63,7 @@ education:
     info:
       - degree: MSc in Data Science and Business analysis
         university: University of Warsaw
-        time: 2024 - present
+        time: 2024 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,7 +83,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point           
-       - degree: BSc in Computer Science
+      - degree: BSc in Computer Science
         university: Jilin UNIVERSITY
         time: 2011 - 2015
         details: |
