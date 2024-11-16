@@ -3,19 +3,19 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Aaron Liu
+    tagline: Java Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: lzhy.sky@hotmail.com
+    phone: +48 792015739
+    timezone: Poland/Warsaw # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
@@ -36,22 +36,19 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: badminton
           link:
 
-        - item: Snowboarding
+        - item: magic trick performance
           link:
 
         - item: Cooking
@@ -69,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Data Science and Business analysis
+        university: University of Warsaw
+        time: 2024 - 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MSc in Quantitative investment
+        university: University of International Business and Economics
+        time: 2021 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,12 +88,24 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            
+       - degree: BSc in Computer Science
+        university: Jilin UNIVERSITY
+        time: 2011 - 2015
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point    
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: Senior Software Developer
+        time: 2019 - 2023
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -110,8 +119,8 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
+      - role: Software Developer
+        time: 2017 - 2019
         company: Google, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -121,9 +130,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Software Developer
+        time: 2015 - 2017
+        company: HuaWei, Beijing
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -246,23 +255,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java & Python
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Spring & Springboot & Spring MVC
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Mysql & Redis & HBase & Neo4J
+        level: 95%
+
+      - name: Flume & Kafka & Mapreduce
+        level: 95%
+
+      - name: Linux & GIT & Maven
+        level: 90%
+
+      - name: AWS&Alibaba Cloud
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
