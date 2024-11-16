@@ -10,17 +10,17 @@ sidebar:
     # Profile information
     name: Aaron Liu
     tagline: Java Backend Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lzhy.sky@hotmail.com
     phone: +48 792015739
     timezone: Poland/Warsaw # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    website: https://www.linkedin.com/in/aaron-liu-240a60192/ # Include the full website URL, including "http://" or "https://".
+    linkedin: https://www.linkedin.com/in/aaron-liu-240a60192/
     xing: alandoe
-    github: jekyll
+    github: https://github.com/lzhysky
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -57,12 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      8 years of experience specializing in Javaback-end development for international and multi-cultural companies.
 education:
     title: Education
     info:
@@ -106,7 +101,7 @@ experiences:
     info:
       - role: Senior Software Developer
         time: 2019 - 2023
-        company: Startup Hubs, San Francisco
+        company: SOHU, Beijing
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,7 +116,7 @@ experiences:
             - Bullet point
       - role: Software Developer
         time: 2017 - 2019
-        company: Google, London
+        company: SOHU, Beijing
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
